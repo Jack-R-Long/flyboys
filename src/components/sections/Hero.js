@@ -95,10 +95,8 @@ const Hero = ({
             </a> */
               <Image
               className="has-shadow"
-              src={require('./../../assets/images/f22.jpg')}
-              alt="Hero"
-              width={896}
-              height={504} />
+              src={require('./../../assets/images/doge.gif')}
+              alt="Hero"/>
               }
           </div>
           <Modal
