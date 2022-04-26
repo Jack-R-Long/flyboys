@@ -61,18 +61,18 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Fly <span className="text-color-primary">Apes</span>
+              Fly <span className="text-color-primary">Boys</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                NFT Project with flying apes!  
+                Time to splash some migs!  
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://github.com/Jack-R-Long">
-                    Get started
+                    Mint
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/Jack-R-Long">
+                  <Button tag="a" color="dark" wideMobile href="https://github.com/Jack-R-Long" target="_blank">
                     View on Github
                     </Button>
                 </ButtonGroup>
@@ -95,7 +95,7 @@ const Hero = ({
             </a> */
               <Image
               className="has-shadow"
-              src={require('./../../assets/images/doge.gif')}
+              src={require('./../../assets/images/mintpic.gif')}
               alt="Hero"/>
               }
           </div>
