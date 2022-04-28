@@ -94,7 +94,7 @@ const Testimonial = ({
                     )}
                     >
                     <Image
-                      src={require('./../../assets/images/eb_temp.PNG')}
+                      src={require('./../../assets/images/eb_temp.png')}
                       alt="Features split 03"
                       width={528}
                       height={396} />
